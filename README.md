@@ -1,6 +1,6 @@
 # Тестирование REST API https://swapi.dev/
 
-Run: `pytest -v -s test_mail_ru.py`
+Run: `pytest -v -s swapi_test.py`
 
 ### Действия:
 1. Получение списка сущностей
