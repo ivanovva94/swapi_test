@@ -1,4 +1,4 @@
-import pytest as pytest
+import pytest
 import requests
 
 base_url = "https://swapi.dev/api/"
